@@ -11,7 +11,7 @@ const ProductContextProvider=(props) =>{
     
     useEffect(()=>{
         productService.readAll().then((data) => setProducts(data));
-    },[]);
+    },[productService,products]);
 
     const createProduct=(product) =>{
         productService.create(product).then((data) => setProducts([...products,data]));
