@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/consume_api_react/static/css/main.f5c2605a.css",
-    "main.js": "/consume_api_react/static/js/main.3b13aebb.js",
+    "main.js": "/consume_api_react/static/js/main.9ea1703a.js",
     "static/js/787.ec1237bc.chunk.js": "/consume_api_react/static/js/787.ec1237bc.chunk.js",
     "static/media/primeicons.svg": "/consume_api_react/static/media/primeicons.c6e2053303524e39530c.svg",
     "static/media/primeicons.eot": "/consume_api_react/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
@@ -15,11 +15,11 @@
     "static/media/roboto-v20-latin-ext_latin-regular.woff2": "/consume_api_react/static/media/roboto-v20-latin-ext_latin-regular.5cb5c8f08bb4e6cb64c3.woff2",
     "index.html": "/consume_api_react/index.html",
     "main.f5c2605a.css.map": "/consume_api_react/static/css/main.f5c2605a.css.map",
-    "main.3b13aebb.js.map": "/consume_api_react/static/js/main.3b13aebb.js.map",
+    "main.9ea1703a.js.map": "/consume_api_react/static/js/main.9ea1703a.js.map",
     "787.ec1237bc.chunk.js.map": "/consume_api_react/static/js/787.ec1237bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5c2605a.css",
-    "static/js/main.3b13aebb.js"
+    "static/js/main.9ea1703a.js"
   ]
 }
